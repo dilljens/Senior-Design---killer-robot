@@ -1,0 +1,111 @@
+SOFTWARE LICENSE AGREEMENT
+
+Mechtro LLC, a Wyoming limited liability company (“Mechtro”), has provided or
+will provide the Automatic Bag Ventilation Actuation ("AutoBVM") Prototype
+Development Group ("AutoBVM") an executable version of the program source code
+files that reference this document hereto (“Software”) in connection with
+various software development and other services provided by Mechtro to Licensee.
+
+THIS NON-EXCLUSIVE LICENSE AGREEMENT DOES NOT CONSTITUTE A SALE OR ASSIGNMENT OF
+THE SOFTWARE. IT IS A GRANT OF PERMISSION TO UTILIZE THE SOFTWARE. THIS
+AGREEMENT DOES NOT TRANSFER THE TITLE TO THE SOFTWARE AND THE LICENSEE DOES NOT
+HAVE SOLE AND EXCLUSIVE RIGHTS TO THE SOFTWARE.
+
+The Software is made available by Mechtro to Licensee on the following terms:
+
+1. Mechtro agrees to grant a nonexclusive, non-transferable, royalty-free
+license without the right to sublicense to Licensee, and Licensee agrees to
+utilize the Software for purposes internal to the Licensee only. Licensee agrees
+to utilize the Software for use in connection with the AutoBVM project as part
+of the COVID-19 relief effort. Licensee may make copies of the Software only for
+internal archival or back-up purposes. Licensee agrees not to disclose, share or
+distribute the Software to any person external to the Licensee without the prior
+written permission of Mechtro. The term “Software” as used in this Agreement
+shall mean all computer programs licensed under this Agreement, including all
+related technical information, files, documentation, and other materials,
+whether in whole or in part, including any and all modifications, derivative
+works and copies of the foregoing, regardless of the form or media in or on
+which they may exist.
+
+2. The Software provided may be used in products for the AutoBVM project. It may
+not be used outside of that project scope unless a separate license granting the
+right to use the Software in such products or services is executed between
+Mechtro and Licensee. Licensee agrees that it will not license, sub-license,
+assign or sell the Software or any methodology, know-how, information or data
+that incorporate any part of the Software, including derivative works thereof
+(“Derivatives”), to any parties. Software is provided as a technology
+demonstration and starting point. Licensee may modify and improve upon this
+Software provided that the authorship and license notification are retained.
+
+3. Licensee hereby acknowledges that the Software is made available to Licensee
+only on the basis of this Agreement and subject to the terms and conditions
+hereof, that Licensee retains all rights and title to the intellectual property
+contained in the Software and that Licensee has not been granted any rights in
+the Software other than as provided herein, including without limitation any
+rights based on a work for hire or assignment basis which may have been rendered
+by Mechtro or its principals to Licensee. All rights not specifically granted in
+this Agreement, including federal and international copyrights, are reserved by
+Mechtro.
+
+4. Mechtro will consider all requests for a commercial, royalty-based license to
+the Software, but shall be under no obligation to grant such license.
+
+5. Licensee agrees that any person within the Licensee utilizing the Software
+will be advised of, and is subject to, the conditions in the Agreement.
+
+6. The Software is being licensed “as is”. The license of the Software does not
+include any technical support.
+
+7. NO WARRANTY, DISCLAIMER, INDEMNITY: THE SOFTWARE AND/OR RELATED MATERIALS ARE
+PROVIDED “AS-IS” WITHOUT WARRANTY OF ANY KIND INCLUDING ANY WARRANTIES OF
+PERFORMANCE OR MERCHANTABILITY OR FITNESS FOR A PARTICULAR USE OR PURPOSE OR FOR
+ANY PURPOSE WHATSOEVER. IN NO EVENT SHALL MECHTRO BE LIABLE FOR ANY DAMAGES
+AND/OR COSTS, INCLUDING BUT NOT LIMITED TO INCIDENTAL OR CONSEQUENTIAL DAMAGES
+OF ANY KIND, INCLUDING ECONOMIC DAMAGE OR INJURY TO PROPERTY AND LOST PROFITS,
+REGARDLESS OF WHETHER MECHTRO SHALL BE ADVISED, HAVE REASON TO KNOW, OR IN FACT
+SHALL KNOW OF THE POSSIBILITY. LICENSEE BEARS ALL RISK RELATING TO QUALITY AND
+PERFORMANCE OF THE SOFTWARE AND/OR RELATED MATERIALS, AND AGREES TO INDEMNIFY
+MECHTRO FOR ALL THIRD-PARTY CLAIMS RESULTING FROM THE ACTIONS OF LICENSEE IN THE
+USE OF THE SOFTWARE. THIS SOFTWARE IS PROVIDED FOR THE PURPOSES OF TECHNOLOGY
+DEMONSTRATION AND CARRIES NO CERTIFICATIONS OR PROMISES OF SUITABILITY. IT IS
+THE RESPONSIBILITY OF THE USER TO IMPROVE THE IMPLEMENTATION AND CERTIFY FOR ANY
+SPECIFIC USE CASE.
+
+8. The Agreement covers the use described in Section 1 above. All other uses of
+the Software by the Licensee must be approved in advance by Mechtro in writing.
+
+9. All right, title, and interest in and to all data, information, and
+inventions that result from use of the Software by the Licensee shall vest in
+and belong to the Licensee. Licensee agrees to provide Mechtro with copies of
+any inventions, developments, documentation, products and services of Licensee
+that reference the Software, and to acknowledge Mechtro as the author and owner
+of the Software.
+
+10. The laws of the State of Wyoming, in the United States of America, will
+govern this Agreement.
+
+11. Licensee and Mechtro agree that the exclusive remedy for all disputes and
+claims relating in any way to, or arising out of, this Agreement, or Licensee’s
+use of the Software, (including the arbitrability of any claim or dispute and
+the enforceability of this paragraph), or to any other alleged act or omission
+by Licensee or Mechtro toward the other, shall be final and binding arbitration.
+The arbitration shall be conducted under the Commercial Arbitration Rules of the
+American Arbitration Association (“AAA”) before a single arbitrator and
+conducted in Casper, State of Wyoming, the United States of America
+pursuant to the laws of the State of Wyoming.
+
+12. This Agreement will expire at the end of the FDA Emergency Use Authorization
+("EAU") , which was issued March 27, 2020 as part of the COVID-19 response.
+
+13. This Agreement may not be altered, supplemented or amended by the use of any
+other document(s) unless otherwise agreed to in a separate written agreement
+signed by both Licensee and Mechtro.
+
+14. Licensee may not assign, sell, transfer, delegate or otherwise dispose of
+this Agreement, whether voluntarily or involuntarily, by operation of law or
+otherwise. Any purported assignment, transfer or delegation by you will be null
+and void. Subject to the foregoing, this Agreement will be binding upon and will
+inure to the benefit of the parties and their respective successors and assigns.
+
+15. Paragraphs 3 through 14 will survive termination or expiration of this
+Agreement.
